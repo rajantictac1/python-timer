@@ -1,5 +1,5 @@
 import time
-
+// write by chatgtp
 def delay(seconds):
     time.sleep(seconds)
 
