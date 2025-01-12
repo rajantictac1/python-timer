@@ -1,3 +1,14 @@
+import logging
+from datetime import datetime
+from dateutil.relativedelta import relativedelta, TH
+from kiteconnect import KiteConnect
+from kiteconnect import KiteTicker
+
+def get_kite()
+    kite  = KiteConnect(api_key="your_api_key")
+    kite.set_access_token("your_access_token")
+
+kite = get_kite()
 import time
 // write by chatgtp
 def delay(seconds):
